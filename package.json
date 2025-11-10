@@ -1,0 +1,22 @@
+{
+  "name": "real-time-polling-system",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@prisma/client": "^6.19.0",
+    "fastify": "^5.6.2",
+    "jest": "^30.2.0",
+    "postgres": "^3.4.7",
+    "prisma": "^6.19.0",
+    "swagger-ui": "^5.30.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "zod": "^4.1.12"
+  }
+}
